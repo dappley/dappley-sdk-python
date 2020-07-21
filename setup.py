@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "dappleyPython",
-    version = "0.1.0",
+    version = "0.0.1",
     keywords = ("pip", "sdk","dappley","dappworks","dappleyPython"),
     description = "dappley sdk is implemented by python",
     long_description = "dappley sdk is implemented by python ,you can send transaction to dappley blockchain by this sdk",

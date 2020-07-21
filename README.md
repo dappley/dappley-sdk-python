@@ -10,7 +10,7 @@ Project dapplay-sdk-python is built for applications of Dappley project base on 
 ## Installation
 using pip:
 ```shell
-    pip install dapplay-sdk-python
+    pip install dappleyPython
 ```
 using source:  
 step 1:
