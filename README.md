@@ -1,6 +1,6 @@
 # Dappley-SDK-Python
 
-[![Licence](https://img.shields.io/github/license/dappley/dappley-java.svg)](https://github.com/dappley/dappley-java/blob/master/LICENSE)
+[![Licence](https://img.shields.io/github/license/dappley/dappley-sdk-python.svg)](https://github.com/dappley/dappley-sdk-python/master/LICENSE)
 
 Project dapplay-sdk-python is built for applications of Dappley project base on python language.
 
