@@ -12,9 +12,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "dappley-sdk-python",
+    name = "dappleyPython",
     version = "0.1.0",
-    keywords = ("pip", "sdk","dappley","dappworks"),
+    keywords = ("pip", "sdk","dappley","dappworks","dappleyPython"),
     description = "dappley sdk is implemented by python",
     long_description = "dappley sdk is implemented by python ,you can send transaction to dappley blockchain by this sdk",
     license = "LGPL v3 Licence",
