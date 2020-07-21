@@ -30,4 +30,4 @@ You can read [test.py](https://github.com/dappley/dappley-sdk-python/blob/master
 
    send_transaction(from_address, to_address, amount, private_key, tip, gas_limit, gas_price, contract): it allow you to send transaction to dappley blockchain. If you want to read more about dappley contract ,please to go to this [link](https://github.com/dappley/go-dappley/wiki/SC-Development)
 ## License
-The dappley-java project is licensed under the [GNU Lesser General Public License Version 3.0 (“LGPL v3”)](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+The dappley-java project is licensed under the [MIT](https://opensource.org/licenses/MIT).
